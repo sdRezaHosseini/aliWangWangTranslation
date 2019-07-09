@@ -1,6 +1,7 @@
 # aliWangWangTranslation
 Try to translate aliWangWang UI
 
+0- Exit AliWangWang
 
 1- go to C:\Program Files(x86)\TradeManager\languages
 
