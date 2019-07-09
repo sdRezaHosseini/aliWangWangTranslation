@@ -16,6 +16,7 @@ Try to translate aliWangWang UI
 	
 	
 *** It would be easy if you run on linux. Maybe it will need some libraries
+
 *** provided chs.locale is a translated file for version 9.12.07C
 
 
